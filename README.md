@@ -61,31 +61,31 @@
 ## Day 5(JS)
 
 ![](../memes/m6.jpeg)
-- [ ] Start Learning Javascipt from 
+- [x] Start Learning Javascipt from 
     - <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide">MDN Web Docs</a>
     - <a href="https://eloquentjavascript.net/">Eloquent Javascript Book for reference</a>
     - List of important topics to learn in Javascipt :
-        - [ ] Types, Variables and Scoping
-        - [ ] Objects and Functions
-        - [ ] The DOM
-        - [ ] Events and EventListeners
-        - [ ] Flow Control
-        - [ ] ES6, etc
-- [ ] You can also learn about any Javascipt Frameworks like JQuery, React, etc
+        - [x] Types, Variables and Scoping
+        - [x] Objects and Functions
+        - [x] The DOM
+        - [x] Events and EventListeners
+        - [x] Flow Control
+        - [x] ES6, etc
+- [x] You can also learn about any Javascipt Frameworks like JQuery, React, etc
     
 ## Day 6 (JS)
-- [ ] Start adding JS to your project. Keep all the JS in **<project_dir>/assets/js/** folder.
-- [ ] You can also use JQuery or any other Framework for styling.
-- [ ] Add the JS script in your index.html using **script** tag
+- [x] Start adding JS to your project. Keep all the JS in **<project_dir>/assets/js/** folder.
+- [x] You can also use JQuery or any other Framework for styling.
+- [x] Add the JS script in your index.html using **script** tag
 
-- [ ] Create atleast 
-   - [ ] Two of these animations by DOM manipulation using Javascript -
-        - [ ] Fade-Effect
-        - [ ] Roll-in or Roll-out
-        - [ ] Page-In or Page-out
-        - [ ] Object Movements
-        - [ ] Fireworks
-   - [ ] Two EventListeners for events like Click, KeyDown, Resize, etc.
+- [x] Create atleast 
+   - [x] Two of these animations by DOM manipulation using Javascript -
+        - [x] Fade-Effect
+        - [x] Roll-in or Roll-out
+        - [x] Page-In or Page-out
+        - [x] Object Movements
+        - [x] Fireworks
+   - [x] Two EventListeners for events like Click, KeyDown, Resize, etc.
    
    ![](../memes/m3.jpeg)
 

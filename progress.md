@@ -1,6 +1,6 @@
 ## Day 1
 - List of things learnt
-    -
+    - 
     -
     -
 
